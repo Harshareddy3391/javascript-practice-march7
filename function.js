@@ -34,3 +34,34 @@ adi(12,33)
 adi(12,"hello")
 adi("rahul")
 adi(4)
+
+
+
+
+
+console.log("practice")
+
+function addition(a,b){
+    
+    console.log("hj")
+
+
+    return a*b
+     
+ 
+}
+let r1=addition(1,2)
+
+console.log(r1)
+
+
+
+s=[]
+
+if (s.length == 0 ){
+    console.log("empty")
+}else{
+    console.log("not empty")
+}
+
+
