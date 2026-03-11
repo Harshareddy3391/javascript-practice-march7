@@ -8,7 +8,7 @@ function time(){
 
      document.writeln(dis)
 
-     dis.innerHTML=HARSHA
+     dis.innerHTML="HARSHA"
 }
 
 
