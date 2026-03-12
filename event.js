@@ -10,3 +10,27 @@ function blue(){
     document.getElementById('mout').style.background="blue"
 }
 
+
+
+
+
+function greenin(){
+    
+    let d=document.getElementById('inout')
+    d.style.background="green"
+}
+
+
+
+function blueout(){
+    document.getElementById('inout').style.background="blue"
+}
+
+
+
+
+
+
+
+
+
